@@ -1,0 +1,3 @@
+:HL["/_next/static/css/99e5db4394c2031e.css","style"]
+:HL["https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/24fe2a936dc3f1e78b8fbc6fab82141a-1776167208548/Portfolio014.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"nuri-visa-bitcoin-banking-platform-54efd6","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Lvo1_er5YJ-G757bYjN1q"}

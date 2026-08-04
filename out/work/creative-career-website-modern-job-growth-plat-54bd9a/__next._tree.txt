@@ -1,0 +1,3 @@
+:HL["/_next/static/css/99e5db4394c2031e.css","style"]
+:HL["https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/cb564343daea1e4ffc9f8f65dbf8f9d8-1776121361256/Portfolio005.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"creative-career-website-modern-job-growth-plat-54bd9a","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Lvo1_er5YJ-G757bYjN1q"}

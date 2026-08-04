@@ -1,0 +1,3 @@
+:HL["/_next/static/css/99e5db4394c2031e.css","style"]
+:HL["https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/15c3c53ea2f967b1bf82e8bd9deef369-1776429370976/Portfolio004.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kkpk-work-digital-design-showcase-ee7a13","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Lvo1_er5YJ-G757bYjN1q"}

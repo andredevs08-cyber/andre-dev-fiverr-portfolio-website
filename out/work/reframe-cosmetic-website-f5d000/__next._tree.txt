@@ -1,0 +1,3 @@
+:HL["/_next/static/css/99e5db4394c2031e.css","style"]
+:HL["https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/9917dc6620f7b88885fc0f5805528bd1-1777684186143/Portfolio040.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"reframe-cosmetic-website-f5d000","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Lvo1_er5YJ-G757bYjN1q"}

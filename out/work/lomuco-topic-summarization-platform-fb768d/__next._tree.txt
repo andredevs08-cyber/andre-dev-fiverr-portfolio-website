@@ -1,0 +1,3 @@
+:HL["/_next/static/css/99e5db4394c2031e.css","style"]
+:HL["https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d0a26125da389df782597fe3a3b795e9-1776177211857/Portfolio009.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"work","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"lomuco-topic-summarization-platform-fb768d","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Lvo1_er5YJ-G757bYjN1q"}
