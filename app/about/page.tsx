@@ -27,7 +27,7 @@ export default function AboutPage() {
       <section className="about-page-hero shell">
         <div className="about-visual">
           <div className="about-poster">
-            <span>ANDRE.DEV</span>
+            <span>ANDRE.DEVS</span>
             <strong>BUILD</strong>
             <em>FIX</em>
             <strong>LAUNCH</strong>
@@ -40,7 +40,7 @@ export default function AboutPage() {
         </div>
 
         <div className="about-page-copy">
-          <p className="section-kicker">About Andre.Dev</p>
+          <p className="section-kicker">About Andre.Devs</p>
           <h1>
             I build the part users see and fix the parts they <em>feel.</em>
           </h1>
