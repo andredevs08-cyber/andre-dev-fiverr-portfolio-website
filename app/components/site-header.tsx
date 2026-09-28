@@ -12,8 +12,8 @@ const navItems = [
 export function SiteHeader({ active }: SiteHeaderProps) {
   return (
     <header className="site-header shell">
-      <a className="wordmark" href="/" aria-label="Andre.Dev home">
-        ANDRE.DEV
+      <a className="wordmark" href="/" aria-label="Andre.Devs home">
+        ANDRE.DEVS
       </a>
 
       <nav className="primary-nav" aria-label="Primary navigation">
