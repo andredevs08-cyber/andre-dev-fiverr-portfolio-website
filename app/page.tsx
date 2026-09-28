@@ -283,7 +283,7 @@ export default function Home() {
 
         <div className="contact-action">
           <span>LET&apos;S BUILD IT</span>
-          <a href="/hire" aria-label="Hire Andre.Dev on Fiverr">
+          <a href="/hire" aria-label="Hire Andre.Devs on Fiverr">
             ↗
           </a>
         </div>
