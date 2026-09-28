@@ -32,7 +32,7 @@ export default function ServicesPage() {
         </div>
       </section>
 
-      <section className="service-page shell" aria-label="Andre.Dev services">
+      <section className="service-page shell" aria-label="Andre.Devs services">
         <div className="service-page__list">
           {services.map((service) => (
             <article className="service-page__item" key={service.number}>
