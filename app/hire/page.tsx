@@ -15,7 +15,7 @@ export default function HirePage() {
 
       <section className="hire-page shell">
         <div className="hire-copy">
-          <p className="section-kicker">Hire Andre.Dev on Fiverr</p>
+          <p className="section-kicker">Hire Andre.Devs on Fiverr</p>
           <h1>
             Let&apos;s turn the project into a <em>clear next step.</em>
           </h1>
