@@ -27,7 +27,7 @@ export default function HirePage() {
 
           <a
             className="button button--fiverr"
-            href="https://www.fiverr.com/s/ljpN1Qb"
+            href="|https://www.fiverr.com/s/bkdwAXY"
             target="_blank"
             rel="noreferrer"
           >
